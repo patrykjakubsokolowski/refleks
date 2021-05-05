@@ -1,4 +1,4 @@
-// POP_2016_12_12_projekt_1_Soko≥owski_Patryk_EIT_7_165161    Dev-C++ 5.11
+// POP_projekt_1_Soko≈Çowski_Patryk_EIT_7_165161    Dev-C++ 5.11
 #include <iostream>
 #include <windows.h> //system(), kolory
 #include <cmath>  //sqrt()
@@ -158,7 +158,7 @@ void instrukcja() {
 	<<"Klawisze:"<<endl<<"A - romb"<<endl<<"S - trojkat"<<endl<<"W - kwadrat"<<endl<<"D - okrag"<<endl;
 	
 	cout<<endl<<"WCISNIJ DOWOLNY KLAWISZ BY ROZPOACZAC TEST!"<<endl;
-	getch(); //dowolny klawisz by rozpoczπÊ test	
+	getch(); //dowolny klawisz by rozpocz¬π√¶ test	
 	system("cls");
 }
 
